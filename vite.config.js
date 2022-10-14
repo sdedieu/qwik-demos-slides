@@ -15,5 +15,5 @@ export default defineConfig({
   build: {
     outDir: './docs'
   },
-  base: "/qwik/",
+  base: "/qwik-demos-slides/",
 })
